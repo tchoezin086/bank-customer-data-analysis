@@ -1,0 +1,51 @@
+Customer_ID,Name,Gender,Age,City,Monthly_Income,Loan_Amount,Credit_Score,Account_Type,Join_Date,Active_Customer
+1001,  Asha Sharma ,Female,28.0,Delhi,65000.0,250000.0,742.0,Savings,2023-01-15,Yes
+1002,Rahul Verma,Male,35.0,Mumbai,82000.0,500000.0,710.0,Current,15/02/2023,Yes
+1003,Neha Singh,Female,31.0,Delhi,72000.0,300000.0,690.0,Savings,2023/03/20,No
+1004,Amit Kumar,Male,42.0,Bengaluru,95000.0,750000.0,780.0,Current,04-04-2023,Yes
+1005,Priya Patel,Female,26.0,Mumbai,,180000.0,735.0,Savings,2023-05-11,Yes
+1006,Karan Mehta,Male,,Pune,56000.0,120000.0,620.0,Savings,2023-06-02,No
+1007,Sneha Gupta,Female,33.0,Delhi,88000.0,,765.0,Current,2023-06-19,Yes
+1008,Vikram Rao,Male,,Bengaluru,91000.0,450000.0,700.0,Savings,2023-07-08,No
+1009,Meera Joshi,Female,29.0,Pune,67000.0,220000.0,,Savings,2023-07-25,Yes
+1010,Arjun Nair,Male,38.0,Chennai,,600000.0,715.0,Current,2023-08-10,Yes
+1011,Pooja Das,Female,27.0,Kolkata,59000.0,150000.0,680.0,Savings,2023-08-22,No
+1012,Rohit Jain,Male,45.0,Mumbai,120000.0,900000.0,805.0,Current,2023-09-01,Yes
+1013,Ananya Roy,Female,24.0,Kolkata,48000.0,90000.0,650.0,Savings,01/10/2023,No
+1014,Sahil Kapoor,Male,36.0,Pune,76000.0,350000.0,740.0,Savings,2023-10-14,Yes
+1015,Divya Iyer,Female,32.0,Chennai,83000.0,400000.0,770.0,Current,2023-11-03,Yes
+1016,Manish Yadav,Male,41.0,Delhi,102000.0,800000.0,790.0,Current,2023-11-21,No
+1017,Kavita Rao,Female,30.0,Bengaluru,71000.0,270000.0,720.0,Savings,2023-12-05,Yes
+1018,Deepak Shah,Male,39.0,Mumbai,89000.0,550000.0,705.0,Current,2024-01-17,No
+1019,Ritu Malhotra,Female,28.0,Delhi,64000.0,200000.0,750.0,Savings,2024-02-09,Yes
+1020,Nikhil Bose,Male,34.0,Kolkata,78000.0,320000.0,695.0,Current,2024-03-12,Yes
+1021,  Asha Sharma ,Female,28.0,Delhi,65000.0,250000.0,742.0,Savings,2023-01-15,Yes
+1022,Simran Kaur,,25.0,Chandigarh,52000.0,110000.0,660.0,Savings,2024-04-02,No
+1023,Varun Sethi,Male,37.0,Delhi,87000.0,480000.0,730.0,Current,2024-04-19,Yes
+1024,Isha Bansal,Female,29.0,Pune,69000.0,260000.0,710.0,Savings,2024-05-07,Yes
+1025,Mohit Arora,Male,,Mumbai,98000.0,700000.0,760.0,Current,2024-05-28,No
+1026,Tanya Sen,Female,31.0,Kolkata,74000.0,,725.0,Savings,2024-06-16,Yes
+1027,Rakesh Pillai,Male,44.0,Chennai,105000.0,850000.0,790.0,Current,2024-07-04,Yes
+1028,Nisha Jain,Female,27.0,Delhi,,190000.0,680.0,Savings,2024-07-22,No
+1029,Aditya Ghosh,Male,33.0,Kolkata,81000.0,390000.0,740.0,Current,2024-08-13,Yes
+1030,Farah Khan,Female,36.0,Mumbai,93000.0,620000.0,770.0,Current,2024-09-01,Yes
+1031,Gaurav Mishra,Male,40.0,Pune,86000.0,510000.0,705.0,Savings,2024-09-18,No
+1032,Payal Sinha,Female,22.0,Bengaluru,45000.0,70000.0,640.0,Savings,2024-10-06,Yes
+1033,Suresh Reddy,Male,48.0,Hyderabad,125000.0,1000000.0,810.0,Current,2024-10-25,Yes
+1034,Maya Thomas,Female,34.0,Chennai,79000.0,360000.0,735.0,Savings,2024-11-11,No
+1035,Ajay Bhatia,Male,29.0,Delhi,68000.0,240000.0,700.0,Savings,2024-12-02,Yes
+1036,Reena Paul,Female,31.0,Kolkata,72000.0,310000.0,755.0,Current,2025-01-15,Yes
+1037,Yash Malhotra,Male,35.0,Mumbai,1500000.0,650000.0,795.0,Current,2025-02-03,Yes
+1038,Kriti Anand,Female,26.0,Pune,61000.0,170000.0,690.0,Savings,2025-02-21,No
+1039,Om Prakash,Male,39.0,Hyderabad,90000.0,440000.0,720.0,Savings,not available,Yes
+1040,Zoya Ali,Female,28.0,Mumbai,77000.0,280000.0,745.0,Savings,2025-03-16,Yes
+1041,Rohan Gill,Male,,Chandigarh,58000.0,140000.0,670.0,Savings,2025-04-01,No
+1042,Bhavna Arora,Female,33.0,Delhi,82000.0,410000.0,760.0,Current,2025-04-19,Yes
+1043,Tarun Dutta,Male,30.0,Kolkata,73000.0,330000.0,710.0,Current,2025-05-08,No
+1044,Leena Fernandes,Female,37.0,Mumbai,96000.0,590000.0,785.0,Current,2025-05-26,Yes
+1045,Harish Rawat,Male,43.0,Delhi,99000.0,680000.0,775.0,Current,2025-06-12,Yes
+1046,Sonia Kapoor,Female,29.0,Pune,66000.0,230000.0,700.0,Savings,2025-07-03,No
+1047,Imran Sheikh,Male,32.0,Hyderabad,84000.0,370000.0,730.0,Current,2025-07-21,Yes
+1048,Rhea Chawla,Female,27.0,Bengaluru,63000.0,210000.0,715.0,Savings,2025-08-09,Yes
+1049,Dev Khanna,Male,35.0,Mumbai,88000.0,460000.0,750.0,Current,2025-08-27,Yes
+1050,Sana Mir,Female,30.0,Delhi,70000.0,250000.0,725.0,Savings,2025-09-14,No
